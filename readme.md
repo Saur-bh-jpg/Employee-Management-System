@@ -43,7 +43,4 @@ The **Employee Management System (EMS)** is a Python-based Command Line Interfac
 6.  **Delete:** Select Option `4` and delete `ID: 101`.
 7.  **Exit:** Select Option `6` to close the program.
 
-## Screenshots
-> *Place your screenshots here. You can upload images to your repo and link them like this:*
-> `![Menu Interface](path/to/screenshot1.png)`
-> `![Update Operation](path/to/screenshot2.png)`
+
